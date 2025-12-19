@@ -4,4 +4,4 @@ interpolationTable/tableReaders/tableReaders.C
 interpolationTable/tableReaders/openFoam/openFoamTableReaders.C
 interpolationTable/tableReaders/csv/csvTableReaders.C
 
-LIB = $(FOAM_USER_LIBBIN)/liblaserHeatSource
+LIB = $(FOAM_USER_LIBBIN)/liblaserHeatSourceLMFOAM
