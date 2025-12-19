@@ -17,7 +17,7 @@ FoamFile
 
 radialPolarHeatSource no;
 
-laserRadius 10e-6; // The radius of the laser
+laserRadius 25e-6; // The radius of the laser
 
 ray_tracing_on true;
 
@@ -74,4 +74,3 @@ debug no;
 // Print extra debug information: defaults to no
 
 // ************************************************************************* //
-
